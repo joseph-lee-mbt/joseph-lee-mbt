@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am Joseph! I'm currently working on constructing a user-friendly database for rearing management of daphnia species.
+
+I am looking for help with making an efficient labelling system for the different daphnia cultures.
+
 <!--
 **joseph-lee-mbt/joseph-lee-mbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
